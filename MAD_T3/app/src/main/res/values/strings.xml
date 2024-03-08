@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MAD_T3</string>
+    <string name="tv_num1">Number 1</string>
+    <string name="tv_num2">Number 2</string>
+    <string name="etn_num1" />
+    <string name="etn_num2" />
+    <string name="btn_ok">OK</string>
+    <string name="tv_n1">Number 1</string>
+    <string name="tv_n2">Number 2</string>
+    <string name="tv_ans" />
+    <string name="btn_add">+</string>
+    <string name="btn_substract">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+    <string name="tv_toast">Opening Calculator</string>
+    <string name="tv_number1" />
+    <string name="tv_number2" />
+    <string name="hint1">enter no</string>
+</resources>

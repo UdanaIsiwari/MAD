@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD_T2</string>
+    <string name="et_temp">Enter Temperature</string>
+    <string name="btn_calc">calculate</string>
+    <string name="rb_cel">Celcius</string>
+    <string name="rb_far">Fahrenhite</string>
+</resources>
